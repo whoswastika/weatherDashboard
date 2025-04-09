@@ -1,7 +1,4 @@
 # 🌦️ WeatherDashboard
-
-<p align="center">Weather Dashboard</p>
-
 ---
 
 ## 🌐 Live Preview
