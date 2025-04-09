@@ -6,7 +6,7 @@
 
 ## 🌐 Live Preview
 
-🔗 Visit the app: [Weather Dashboard](#)
+🔗 Visit the app: [Weather Dashboard](https://weather-dashboard-chi-taupe.vercel.app/)
 
 ---
 
