@@ -37,8 +37,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/wethapp.git
-   cd wethapp
+   git clone https://github.com/whoswastika/weatherDashboard
+   cd weatherDashboard
    ```
 2. **Install dependencies**
    ```bash
@@ -74,5 +74,5 @@ npm test
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: yourname@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: swastikad164@gmail.com
+- **GitHub**: [whoswastika ](https://github.com/whoswastika )
